@@ -1,8 +1,10 @@
 ---
+layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %} 
 
 # Publications & Under Review
 1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, Accepted at **Management Science**, 2020 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397450))     
