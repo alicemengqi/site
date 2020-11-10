@@ -1,0 +1,35 @@
+{
+  "name": "website",
+  "version": "3.4.2",
+  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "repository": {
+    "type": "git",
+    "url": "https://alicemengqi.github.io/mengqi.github.io/"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "minimal"
+  ],
+  "author": "Michael Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://alicemengqi.github.io/mengqi.github.io/issues"
+  },
+  "homepage": "https://alicemengqi.github.io/mengqi.github.io/",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "npm-run-all": "^1.7.0",
+    "onchange": "^2.2.0",
+    "uglify-js": "^2.6.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
