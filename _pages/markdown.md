@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /markdown/
 title: ""
 author_profile: true
@@ -6,7 +7,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
+{% include base_path %} 
 
 ## Honors and Awards
 * Marshall-Oliver-Rosenberger and Grassi Fellowship, IEOR Department, UC Berkeley, 2020   
