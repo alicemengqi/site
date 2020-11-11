@@ -17,5 +17,5 @@ redirect_from:
 * First Prize in Chinese Physics Olympiad (Hebei Province), 2011
 
 ## More About Me
-* My name is written as "戚萌" in Chinese (Mandarin). It is prounouced as "tɕʰiː<sup>1</sup> məŋ<sup>2</sup>" (spelled in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)). 
+* My name is written as "戚萌" in Chinese (Mandarin). It is pronouced as "tɕʰiː<sup>1</sup> məŋ<sup>2</sup>" (spelled in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)). 
 * I enjoy classical music and I play the piano as a hobby.
