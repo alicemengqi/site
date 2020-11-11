@@ -20,7 +20,7 @@ Instructor: Prof. Paul Grigas
 UC Berkeley, Spring 2018
 
 # Industry Experience
-* R&D Intern at JD.com, Silicon Vally Research Center, Summer 2018
+* R&D Intern at JD.com, Silicon Valley Research Center, Summer 2018
 
 # Academic Services
 * Organizer of the student summer seminar series at IEOR Department, UC Berkeley, 2019.
