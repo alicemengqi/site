@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %} 
 
-# Teaching Experience
+# Teaching Experiences
 ## Co-Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
 UC Berkeley, Spring 2020
@@ -22,7 +22,7 @@ UC Berkeley, Spring 2018
 # Industry Experience
 * R&D Intern at JD.com, Silicon Vally Research Center, Summer 2018
 
-# Academic Service
+# Academic Services
 * Organizer of the student summer seminar series at IEOR Department, UC Berkeley, 2019.
 * Reviewer for     
      * Management Science
