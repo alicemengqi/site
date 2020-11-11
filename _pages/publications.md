@@ -22,8 +22,6 @@ Mengxin Wang, Meng Qi, Junyu Cao, Zuo-Jun (Max) Shen
 # Working Paper
 1. An Integrated Estimation Framework for Contextual Stochastic Optimization Problems, Working paper,      
 Paul Grigas, Meng Qi, Zuo-Jun (Max) Shen.
-1. C2M: Data-Driven Nonparametric Product Design, Working paper,    
- Mengxin Wang, Meng Qi, Zuo-Jun (Max) Shen.
 1. End-to-End Inventory Management Model with Deep Learning Under Continuous Review, Working paper,       
 Mo Liu, Meng Qi, Zuo-Jun (Max) Shen.
 
