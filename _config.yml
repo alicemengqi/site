@@ -11,9 +11,9 @@ title                    : "Meng Qi"
 title_separator          : "-"
 name                     : &name "Meng Qi"
 description              : &description "Ph.D. candidate, IEOR Department, UC Berkeley"
-url                      : https://alicemengqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alicemengqi.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alicemengqi.github.io"
+repository               : "alicemengqi.github.io/site"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
