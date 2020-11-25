@@ -9,7 +9,7 @@ author_profile: true
 # Publications & Under Review
 1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, Accepted at **Management Science**, 2020 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397450))     
 Meng Qi, Ying Cao, Zuo-Jun (Max) Shen
-1. A Practical End-to-End Inventory Management Model with Deep Learning, Minor Revision at **Management Science**,     
+1. A Practical End-to-End Inventory Management Model with Deep Learning, Accepted at **Management Science**, 2020 ([download](http://alicemengqi.github.io/site/files/End_to_End_revision3-7.pdf))    
 Meng Qi<sup>*</sup>, Yuanyuan Shi<sup>*</sup>, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
 1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))   
 Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
