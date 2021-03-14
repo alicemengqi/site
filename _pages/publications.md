@@ -9,12 +9,12 @@ author_profile: true
 # Publications & Under Review
 1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903))     
 Meng Qi, Ying Cao, Zuo-Jun (Max) Shen
-1. A Practical End-to-End Inventory Management Model with Deep Learning, Forthcoming in **Management Science**, 2020 ([download](http://alicemengqi.github.io/site/files/End_to_End_revision3-10.pdf))    
+1. A Practical End-to-End Inventory Management Model with Deep Learning, Forthcoming in **Management Science** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780))    
 Meng Qi<sup>*</sup>, Yuanyuan Shi<sup>*</sup>, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
-1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))   
-Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Major Revision in Operations Research** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Mengxin Wang, Meng Qi, Junyu Cao, Zuo-Jun (Max) Shen
+1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))   
+Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
 1. Learning Operational Decisions with Intertemporal Dependence and Moderate Non-Stationarities, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))     
 Meng Qi, Zuo-Jun (Max) Shen, Zeyu Zheng
 1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **Preprint** ([link](https://arxiv.org/abs/2102.09663))     
