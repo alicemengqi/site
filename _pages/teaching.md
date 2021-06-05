@@ -10,6 +10,7 @@ author_profile: true
 ## Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
 UC Berkeley, Spring 2021,
+
 Teaching evaluation: 4.75/5.00 (IEOR 253), 5.00/5.00 (CEE 258)
 ## Co-Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
