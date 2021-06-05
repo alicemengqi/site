@@ -23,14 +23,13 @@ Meng Qi<sup>*</sup>, Mengxin Wang<sup>*</sup>, Zuo-Jun (Max) Shen
 
 # Working Paper
 1. An Integrated Conditional Estimation-Optimization Framework, Working paper,      
-Paul Grigas, Meng Qi, Zuo-Jun (Max) Shen.
+Paul Grigas, Meng Qi, Zuo-Jun (Max) Shen
 1. Distributionally Robust MDP with an Online Updated Ambiguity Set, Working paper,
-
 Meng Qi, Shuo Sun, Zuo-Jun (Max) Shen
 1. Data-Driven Nonparametric Product Design, Working paper,
-Mengxin Wang, Meng Qi, Zuo-Jun (Max) Shen.
+Mengxin Wang, Meng Qi, Zuo-Jun (Max) Shen
 1. End-to-End Inventory Management Model with Deep Learning Under Continuous Review, Working paper,       
-Mo Liu, Meng Qi, Zuo-Jun (Max) Shen.
+Mo Liu, Meng Qi, Zuo-Jun (Max) Shen
 
 [\* denotes equal contribution]
 
