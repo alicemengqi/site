@@ -7,9 +7,13 @@ author_profile: true
 {% include base_path %} 
 
 # Teaching Experiences
+## Instructor
+* IEOR 253/CEE 258, Supply Chain and Logistics Management,     
+UC Berkeley, Spring 2021,
+Teaching evaluation: 4.75/5.00 (IEOR 253), 5.00/5.00 (CEE 258)
 ## Co-Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
-UC Berkeley, Spring 2020 & Spring 2021
+UC Berkeley, Spring 2020 
 
 ## Graduate Student Instructor
 * IEOR 142 Introduction to Machine Learning and Data Analytics,     
