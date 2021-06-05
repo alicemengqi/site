@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %} 
 
 ## Honors and Awards
+* Graduate Remote Instruction Innovation Fellows, UC Berkeley, 2021
 * Marshall-Oliver-Rosenberger and Grassi Fellowship, IEOR Department, UC Berkeley, 2020   
 * Honorable Mention, POMS-HK Best Student Paper Competition, 2020
 * Department Fellowship, IEOR Department, UC Berkeley, 2016
