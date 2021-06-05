@@ -25,6 +25,7 @@ Instructor: Prof. Paul Grigas
 UC Berkeley, Spring 2018
 
 # Industry Experience
+* Research Scientist Intern at Amazon, Summer 2021
 * R&D Intern at JD.com, Silicon Valley Research Center, Summer 2018
 
 # Academic Services
