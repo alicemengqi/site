@@ -17,7 +17,7 @@ Mengxin Wang, Meng Qi, Junyu Cao, Zuo-Jun (Max) Shen
 Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))     
 Meng Qi, Zuo-Jun (Max) Shen, Zeyu Zheng
-1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **Preprint** ([link](https://arxiv.org/abs/2102.09663))     
+1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **Preprint** ([link](https://arxiv.org/abs/2102.09663))       
 Meng Qi<sup>*</sup>, Mengxin Wang<sup>*</sup>, Zuo-Jun (Max) Shen
 
 
