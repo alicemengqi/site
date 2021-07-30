@@ -15,10 +15,13 @@ Meng Qi<sup>*</sup>, Yuanyuan Shi<sup>*</sup>, Yongzhi Qi, Chenxin Ma, Rong Yuan
 Mengxin Wang, Meng Qi, Junyu Cao, Zuo-Jun (Max) Shen
 1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))   
 Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
+1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop** ([link](https://arxiv.org/abs/2102.09663))       
+Meng Qi<sup>*</sup>, Mengxin Wang<sup>*</sup>, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))     
 Meng Qi, Zuo-Jun (Max) Shen, Zeyu Zheng
-1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **Preprint** ([link](https://arxiv.org/abs/2102.09663))       
-Meng Qi<sup>*</sup>, Mengxin Wang<sup>*</sup>, Zuo-Jun (Max) Shen
+1.  End-to-End Inventory Management Model with Deep Learning Under Continuous Review, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897))           
+Mo Liu, Meng Qi, Zuo-Jun (Max) Shen
+
 
 
 # Working Paper
@@ -28,8 +31,6 @@ Paul Grigas, Meng Qi, Zuo-Jun (Max) Shen
 Meng Qi, Shuo Sun, Zuo-Jun (Max) Shen
 1. Data-Driven Nonparametric Product Design, Working paper,     
 Mengxin Wang, Meng Qi, Zuo-Jun (Max) Shen
-1. End-to-End Inventory Management Model with Deep Learning Under Continuous Review, Working paper,           
-Mo Liu, Meng Qi, Zuo-Jun (Max) Shen
 
 [\* denotes equal contribution]
 
