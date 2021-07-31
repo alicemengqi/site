@@ -19,7 +19,7 @@ Meng Qi, Ho-Yin Mak, Zuo-Jun (Max) Shen
 Meng Qi<sup>*</sup>, Mengxin Wang<sup>*</sup>, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))     
 Meng Qi, Zuo-Jun (Max) Shen, Zeyu Zheng
-1.  End-to-End Inventory Management Model with Deep Learning Under Continuous Review, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897))           
+1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897))           
 Mo Liu, Meng Qi, Zuo-Jun (Max) Shen
 
 
