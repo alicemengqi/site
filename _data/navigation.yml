@@ -1,4 +1,4 @@
-# main links links
+i# main links links
 main:
   - title: "Research"
     url: /publications/
@@ -24,4 +24,4 @@ main:
     url: /markdown/
     
   - title: "CV"
-    url: /files/CV_MengQi.pdf
+    url: /files/mengqi_cv.pdf
