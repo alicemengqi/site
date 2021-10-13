@@ -2,22 +2,9 @@ i# main links links
 main :
   - title: "Research"
     url: /publications/
-    # url: /portfolio/
-    # /portfolio/
-
-
+    
   - title: "Teaching & Working & Services"
     url: /teaching/    
-
-  # - title: "Professional Services"
-  #   url: /serve/    
-    
-  # - title: "Invited Talks"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
   
     
   - title: "Miscellaneous"
