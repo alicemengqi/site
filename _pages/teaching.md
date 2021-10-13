@@ -30,6 +30,9 @@ UC Berkeley, Spring 2018
 
 # Academic Services
 * Organizer of the student summer seminar series at IEOR Department, UC Berkeley, 2019.
+* Session chair, INFORMS Annual Meeting, 2020, 2021
 * Reviewer for     
      * Management Science
      * Manufacturing and Service Operations Management
+     * Production and Operations Management
+   
