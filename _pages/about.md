@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
 Hello! I am currently a Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley, advised by [Prof. Max Shen](https://shen.ieor.berkeley.edu). Previously, I received my Bachelor's degree in Physics from Tsinghua University in 2016.  
 
 # Research Interest
