@@ -28,7 +28,7 @@ Joint with Paul Grigas, Zuo-Jun (Max) Shen
 
 # Working Paper
 1. Distributionally Robust MDP with an Online Updated Ambiguity Set, Working paper,     
-Meng Qi, Shuo Sun, Zuo-Jun (Max) Shen
+Joint with Shuo Sun, Zuo-Jun (Max) Shen
 1. Data-Driven Nonparametric Product Design, Working paper,     
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem in a Growing Environment, Working paper,           
