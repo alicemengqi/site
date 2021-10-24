@@ -29,4 +29,5 @@ My research interest is mainly about data-driven decision making with uncertaint
 * Integrated Conditional Estimation-Optimization
 
 **News:**
+* The manuscript of my paper "Integrated Conditional Estimation-Optimization" (joint work with Prof. Paul Grigas and Prof. Zuo-Jun Shen) is available ([here](https://alicemengqi.github.io/site/files/iceo.pdf)).
 * The End-to-End inventory management model is shortlisted as semi-finalists of Gartner Power of the Profession Supply Chain Awards 2022. The finalists and winners will be announced later. See more about [this award](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2022) and the corresponding [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780).
