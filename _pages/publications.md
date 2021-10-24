@@ -21,7 +21,7 @@ Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **Preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3888897))           
 Joint with Mo Liu, Zuo-Jun (Max) Shen
-1. An Integrated Conditional Estimation-Optimization Framework, **print** [link] ()       
+1. An Integrated Conditional Estimation-Optimization Framework, **print**      
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
 
 
