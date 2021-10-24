@@ -15,8 +15,9 @@ My research interest is mainly about data-driven decision making with uncertaint
    
 * Intercept of Operations Management and Machine Learning
 * Supply Chain Management and Retail Operations
-* Distributionally Robust Optimization
 * Data-driven Prescriptive Analysis
+* Distributionally Robust Optimization
+
     
     
 **I am on the 2021-2022 academic job market.** I will present at INFORMS 2021 in the following sessions:
