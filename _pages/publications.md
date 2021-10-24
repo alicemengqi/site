@@ -15,7 +15,7 @@ Joint with Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max)
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **major revision in Production and Operations Management** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))                        
 Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
-1. An Integrated Conditional Estimation-Optimization Framework, **print** ([link](https://alicemengqi.github.io/site/files/iceo.pdf))     
+1. An Integrated Conditional Estimation-Optimization Framework, **preprint** ([link](https://alicemengqi.github.io/site/files/iceo.pdf))     
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
 1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation, **submitted to IEEE Conference on Robotics and Automation 2022** for publication ([link](https://arxiv.org/abs/2102.09663))       
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
