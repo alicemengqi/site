@@ -11,9 +11,9 @@ redirect_from:
 Hello! I am currently a Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley, advised by [Prof. Max Shen](https://shen.ieor.berkeley.edu). Previously, I received my Bachelor's degree in Physics from Tsinghua University in 2016.  
 
 # Research Interest
-My research interest is mainly about data-driven decision making with uncertainty in oeprations management. I am seeking to provide both methodologies and practical solutions combining tools an concepts from optimization, machine learning and statistics. I have studied interconnected problems, focusing mostly on two themes: (i) prescriptive analysis that combines prediction and optimization and (ii) distributionally robust data-driven decisions. From an applications perspective, my research investiages practical problems in supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
+My research interest is mainly about data-driven decision making with uncertainty in operations management. I am seeking to provide both methodologies and practical solutions combining tools an concepts from optimization, machine learning and statistics. I have studied interconnected problems, focusing mostly on two themes: (i) prescriptive analysis that combines prediction and optimization and (ii) distributionally robust data-driven decisions. From an applications perspective, my research investigates practical problems in supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
    
-* Intercept of Operations Management and Machine Learning
+* Interface of Operations Management and Machine Learning
 * Supply Chain Management and Retail Operations
 * Data-driven Prescriptive Analysis
 * Distributionally Robust Optimization
