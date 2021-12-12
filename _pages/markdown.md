@@ -22,7 +22,7 @@ redirect_from:
 * I enjoy classical music and I play the piano as a hobby.
 
 ## My furry friend
-* I am pround to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
+* I am proud to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
 
 ![](/images/lucky1.png)
 ![](/images/lucky2.png)
