@@ -20,3 +20,11 @@ redirect_from:
 ## More About Me
 * My name is written as "戚萌" in Chinese (Mandarin). It is pronouced as "tɕʰiː<sup>1</sup> məŋ<sup>2</sup>" (spelled in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)). 
 * I enjoy classical music and I play the piano as a hobby.
+
+## My furry friend
+* I am pround to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
+<img src="https://github.com/alicemengqi/site/blob/96815654112da4c0c8037b523921baa7649228d8/images/lucky1.png" width="200">
+<img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky2.png" width="200">
+<img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky3.png" width="200">
+
+
