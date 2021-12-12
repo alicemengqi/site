@@ -23,7 +23,9 @@ redirect_from:
 
 ## My furry friend
 * I am pround to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
-<img src="https://github.com/alicemengqi/site/blob/96815654112da4c0c8037b523921baa7649228d8/images/lucky1.png" width="200">
+
+![](/images/lucky1.png)
+<img src="https://github.com/alicemengqi/site/images/lucky1.png" width="200">
 <img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky2.png" width="200">
 <img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky3.png" width="200">
 
