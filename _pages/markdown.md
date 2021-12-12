@@ -25,8 +25,8 @@ redirect_from:
 * I am pround to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
 
 ![](/images/lucky1.png)
-<img src="https://github.com/alicemengqi/site/images/lucky1.png" width="200">
-<img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky2.png" width="200">
-<img src="https://github.com/alicemengqi/site/blob/239360f3ebf615e0ac34084595fc1f304ca8a9ff/images/lucky3.png" width="200">
+![](/images/lucky2.png)
+![](/images/lucky3.png)
+
 
 
