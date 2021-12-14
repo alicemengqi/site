@@ -23,8 +23,8 @@ redirect_from:
 
 ## My furry friend
 * I am proud to be Lucky's mom. Lucky is a bright, curious, and athletic cat. 
-
+<p>
 <img src="/images/lucky1.png" width="200" />
-
+</p>
 
 
