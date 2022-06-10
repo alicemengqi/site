@@ -11,9 +11,9 @@ title                    : "Yueyang Zhong"
 title_separator          : "-"
 name                     : &name "Yueyang Zhong"
 description              : &description "Ph.D. candidate, Operations Management, The University of Chicago Booth School of Business"
-url                      : https://yzhong0.github.io/~yueyangzhong # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yzhong0.github.io/yueyangzhong # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yzhong0/~yueyangzhong"
+repository               : "yzhong0/yueyangzhong"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
