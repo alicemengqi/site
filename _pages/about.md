@@ -13,4 +13,4 @@ Welcome! I am a fourth-year Ph.D. student in Operations Management at [the Unive
 # Research Interest
 My research mainly lies in the intersection of queueing theory, learning theory (especially online learning and reinforcement learning), and human behavioral science, with applications in service operations management. 
 
-I am currently working on (i) system design problems with strategic customers and strategic servers in consideration; and (ii) learning problems in stochastic systems in the face of unknown system parameters, such as learning to schedule in multiclass many server queues with abandonment. 
+I am currently working on (i) system design problems in queueing systems with strategic customers and strategic servers; and (ii) learning problems in stochastic systems in the face of unknown system parameters, such as learning to schedule in multiclass many server queues with abandonment. 
