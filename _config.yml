@@ -11,9 +11,9 @@ title                    : "Yueyang Zhong"
 title_separator          : "-"
 name                     : &name "Yueyang Zhong"
 description              : &description "Ph.D. candidate, Operations Management, The University of Chicago Booth School of Business"
-url                      : https://yueyangzhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yzhong0.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YueyangZhong/yueyangzhong.github.io"
+repository               : "yzhong0.github.io/site"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yueyang Zhong"
-  avatar           : "zhongprofile.png"
+  avatar           : "zhongprofile.jpg"
   bio              : "Ph.D. candidate, Operations Management, The University of Chicago Booth School of Business"
   location         : "Chicago"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -214,7 +214,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
       comments: true
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
