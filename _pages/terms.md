@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /industry-service/
+permalink: /services/
 author_profile: true
 ---
 {% include base_path %} 
