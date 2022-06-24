@@ -14,4 +14,4 @@ author_profile: true
 * Research Intern, Research Center of Innovation and Operations, DiDi (Beijing, 2018 Summer)
 
 # Academic Services
-* Ad-hoc Reviewer: Operations Research, Mathematics of Operations Research, Operations Research Letters, ICSS 2020
+* Ad-hoc Reviewer: Operations Research, Mathematics of Operations Research, Operations Research Letters, Service Science.
