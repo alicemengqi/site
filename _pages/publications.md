@@ -12,8 +12,8 @@ author_profile: true
 
 
 # Working Papers
-1. **Yueyang Zhong**, John R. Birge, Amy R. Ward. [Learning the Scheduling Policy in Time-Varying Multiclass Many Server Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021). Submitted.
-2. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). Under Minor Revision.  
+1. **Yueyang Zhong**, John R. Birge, Amy R. Ward. [Learning the Scheduling Policy in Time-Varying Multiclass Many Server Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021). Submitted to *Operations Research*.
+2. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). Under Minor Revision at *Operations Research*.  
 3. **Yueyang Zhong**, Zhixi Wan, Zuo-Jun Max Shen. [Queueing Versus Surge Pricing Mechanism: Efficiency, Equity, and Consumer Welfare](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699134). Undergraduate Thesis. 
 
 
