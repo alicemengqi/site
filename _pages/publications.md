@@ -13,6 +13,6 @@ author_profile: true
 4. **Yueyang Zhong**. Online Advertising Strategy for Long-Term Good via Robust IV-Q-learning with Noisy Instruments. Available upon request. 
 
 # Publications 
-1. **Yueyang Zhong**, Amy R. Ward, Amber L. Puha. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530). Forthcoming in *Operations Research Letters*.
+1. **Yueyang Zhong**, Amy R. Ward, Amber L. Puha. 2022. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530). *Operations Research Letters* 50, no. 3: 362-369.
 2. **Yueyang Zhong**, YeeMan Bergstrom, Amy R. Ward. 2020. [Data-Driven Market-Making via Model-Free Learning](https://www.ijcai.org/Proceedings/2020/0615.pdf). In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20): Special Track on AI in FinTech.
 
