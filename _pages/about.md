@@ -8,27 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley, advised by [Prof. Max Shen](https://shen.ieor.berkeley.edu). Previously, I received my Bachelor's degree in Physics from Tsinghua University in 2016.  
+**Hello! I am an assistant professor of [operations, technology and information management](https://business.cornell.edu/faculty-research/areas/operations-technology-and-information-management/) at Cornell University SC Johnson College of Business.**
 
-# Research Interest
-My research interest is mainly about data-driven decision making with uncertainty in operations management. I am seeking to provide both methodologies and practical solutions combining tools and concepts from optimization, machine learning, and statistics. I have studied interconnected problems, focusing mostly on two themes: (i) prescriptive analysis that combines prediction and optimization and (ii) distributionally robust data-driven decisions. From an applications perspective, my research investigates practical problems in supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
+### Research Interest
+ My research focuses on data-driven decision making with uncertainty. I am seeking to provide both methodologies and practical solutions combining tools and concepts from optimization, machine learning, and statistics. From an applications perspective, my research focuses on supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
    
 * The interface of Operations Management and Machine Learning
-* Supply Chain Management and Retail Operations
+* Supply Chain Management 
+* Retail Operations
 * Data-driven Prescriptive Analysis
 * Distributionally Robust Optimization
 
-    
-    
-**I am on the 2021-2022 academic job market.** I will present at INFORMS 2021 in the following sessions:
-    
-* Virtual session: **VSD69, Oct 24 2:45-4:15 (PDT)**
-* In-person session: **TD21, Oct 26, 2:45-4:15 (PDT), CC-Room 204A**
+### Education
 
-**Job market papers:** 
-* A Practical End-to-End Inventory Management Model with Deep Learning
-* Integrated Conditional Estimation-Optimization
+* **Ph.D. in Industrial Engineering and Operations Research**   
+University of California, Berkeley (2016-2022) (Advisor: [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu))  
+* **M.S. in Industrial Engineering and Operations Research**    
+University of California, Berkeley (2016-2017)
+* **B.S. in Mathematics and Physics**   
+Tsinghua University (2012-2016)
 
-**News:**
+
+
+### News
 * The manuscript of my paper "Integrated Conditional Estimation-Optimization" (joint work with Prof. Paul Grigas and Prof. Zuo-Jun Shen) is available ([here](https://alicemengqi.github.io/site/files/iceo.pdf)).
 * The End-to-End inventory management model is shortlisted as semi-finalists of Gartner Power of the Profession Supply Chain Awards 2022. The finalists and winners will be announced later. See more about [this award](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2022) and the [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780).
