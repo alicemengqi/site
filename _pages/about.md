@@ -15,4 +15,4 @@ My primary research interests are in stochastic modeling of service systems with
 
 I am currently working on (i) system design optimization problems in queueing systems with strategic customers and strategic servers; and (ii) online learning problems in queueing systems in the face of unknown system parameters, such as learning to schedule in multiclass many-server queues with abandonment. 
 
-
+My [CV](https://drive.google.com/file/d/1OFqXw2d6GgMU_qp5A8IiBWF9-Cbsa889/view?usp=sharing).
