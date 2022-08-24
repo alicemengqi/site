@@ -15,4 +15,4 @@ My primary research interests are in stochastic modeling of service systems with
 
 I am currently working on (i) system design optimization problems in queueing systems with strategic customers and strategic servers; and (ii) online learning problems in queueing systems in the face of unknown system parameters, such as learning to schedule in multiclass many-server queues with abandonment. 
 
-# I am on the 2022-2023 academic job market.
+<b> I am on the 2022-2023 academic job market. </b>
