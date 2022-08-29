@@ -10,7 +10,7 @@ author_profile: true
 1. **Yueyang Zhong**, John R. Birge, Amy R. Ward. [Learning the Scheduling Policy in Time-Varying Multiclass Many Server Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021). Major Revision at *Operations Research*.
 2. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). Minor Revision at *Operations Research*. [[Online Technical Appendix](https://yzhong0.github.io/yueyangzhong/files/finitebuffer_strategicserver_technical_file.pdf)]
 3. **Yueyang Zhong**, Zhixi Wan, Zuo-Jun Max Shen. [Queueing Versus Surge Pricing Mechanism: Efficiency, Equity, and Consumer Welfare](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699134). 
-%4. **Yueyang Zhong**. Online Advertising Strategy for Long-Term Good via Robust IV-Q-learning with Noisy Instruments. Available upon request. %
+{% 4. **Yueyang Zhong**. Online Advertising Strategy for Long-Term Good via Robust IV-Q-learning with Noisy Instruments. Available upon request. %}
 
 # Publications 
 1. **Yueyang Zhong**, Amy R. Ward, Amber L. Puha. 2022. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530). *Operations Research Letters* 50, no. 3: 362-369.
