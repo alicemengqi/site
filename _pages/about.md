@@ -13,6 +13,6 @@ I am a fifth-year Ph.D. student in Operations Management at [the University of C
 # Research Interest
 My primary research interests are in stochastic modeling of service systems with consideration of human strategic behavior and unknown systemic information. My research use tools from applied probability, game theory, and learning theory (in particular, online learning and reinforcement learning). 
 
-I am currently working on (i) system design optimization problems in queueing systems with strategic customers and strategic servers; and (ii) online learning problems in queueing systems in the face of unknown system parameters, such as learning to schedule in multiclass many-server queues with abandonment. 
+I am currently working on (i) system design optimization problems in queueing systems with strategic customers and strategic servers; and (ii) online learning problems in queueing systems in the face of unknown system parameters, such as learning to schedule in queueing systems. 
 
 **I am on the 2022-2023 academic job market.**
