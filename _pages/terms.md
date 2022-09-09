@@ -13,5 +13,5 @@ author_profile: true
 * Research Intern, Data Science Group, Blue Fire Capital, LLC (Chicago, 2019 Summer)
 * Research Intern, Research Center of Innovation and Operations, DiDi (Beijing, 2018 Summer)
 
-# Academic Services
+# Academic Service
 * Ad-hoc Reviewer: Operations Research, Mathematics of Operations Research, Operations Research Letters, Service Science.
