@@ -15,3 +15,4 @@ author_profile: true
 
 # Academic Service
 * Ad-hoc Reviewer: Operations Research, Mathematics of Operations Research, Operations Research Letters, Service Science.
+* Session Chair: INFORMS Annual Meeting 2021, INFORMS CORS 2022.
