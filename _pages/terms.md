@@ -9,9 +9,9 @@ author_profile: true
 
 
 # Industry Experience
-* Research Intern, Ads Marketplace team, Pinterest Labs (Remote, Summer 2021)
-* Research Intern, Data Science Group, Blue Fire Capital, LLC (Chicago, Summer 2019)
-* Research Intern, Research Center of Innovation and Operations, DiDi (Beijing, Summer 2018)
+* Research Intern, Ads Marketplace team, <b>Pinterest Labs</b> (Remote, Summer 2021)
+* Research Intern, Data Science Group, <b>Blue Fire Capital, LLC</b> (Chicago, Summer 2019)
+* Research Intern, Research Center of Innovation and Operations, <b>DiDi</b> (Beijing, Summer 2018)
 
 # Academic Service
 * Ad-hoc Reviewer: Operations Research, Mathematics of Operations Research, Operations Research Letters, Service Science.
