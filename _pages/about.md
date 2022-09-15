@@ -13,8 +13,7 @@ Welcome! My name is Yueyang Zhong (Pronounce: [Yoo-eh-yahng Johng](https://trans
 # Research Interests
 My primary research interests are in stochastic modeling of service systems with consideration of human strategic behavior and unknown systemic information. My research uses tools from applied probability, game theory, and learning theory (in particular, online learning and reinforcement learning). 
 
-I am currently working on (i) system design optimization problems in queueing systems with strategic customers and strategic servers; and (ii) online learning problems in queueing systems in the face of unknown system parameters, such as learning to schedule in queueing systems. 
-
+My current research focuses on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools (e.g., online learning, reinforcement learning) can enhance system performance outcomes when full knowledge of the system is unavailable. 
 
 
 **I am on the 2022-2023 academic job market**
