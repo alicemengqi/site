@@ -20,12 +20,7 @@ I am currently working on (i) how strategic behavior of human customers and huma
 
 I will be presenting at the upcoming 2022 INFORMS Annual Meeting: \
 **Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers** \
-[Tsinghua University](https://www.tsinghua.edu.cn/en)
-
-[SB31: Emerging Topics on Service Platform](https://www.tsinghua.edu.cn/en)
-
-
-(https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064)
+[SB31: Emerging Topics on Service Platform](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064)
 
 
 
