@@ -16,7 +16,7 @@ My primary research interests are in stochastic modeling and optimization of mod
 I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools (e.g., online learning) can enhance the operational and financial efficiency when full knowledge of the system is unavailable. 
 
 
-**I am on the 2022-2023 academic job market!** \
+**I am on the 2022-2023 academic job market!**
 
 
 I will be presenting at the upcoming 2022 INFORMS Annual Meeting: \
