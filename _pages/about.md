@@ -17,7 +17,7 @@ I am currently working on (i) how strategic behavior of human customers and huma
 
 
 **I am on the 2022-2023 academic job market!** \
-\
+
 
 I will be presenting at the upcoming 2022 INFORMS Annual Meeting: \
 **Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers** \
