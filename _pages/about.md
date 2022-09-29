@@ -17,8 +17,8 @@ My research employs tools from applied probability, game theory, optimization, s
 
 I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools (e.g., online learning) can enhance the operational and financial efficiency when full knowledge of the system is unavailable. 
 
+<img src='/images/website.png' width='25'>
 
-![img|320x271,10%](/images/website.png)
 **I am on the 2022-2023 academic job market!**
 
 # Upcoming Talks
