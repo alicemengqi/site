@@ -20,6 +20,7 @@ My primary research interests are in stochastic modeling and optimization of "mo
 </p>
 
 I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools (e.g., online learning) can enhance the operational and financial efficiency when full knowledge of the system is unavailable. 
+
 My research employs tools from applied probability, game theory, optimization, statistics, and learning theory (in particular, online learning and reinforcement learning). 
 
 
