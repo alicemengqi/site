@@ -15,7 +15,7 @@ Welcome! My name is Yueyang Zhong (Pronounced: [Yoo-eh-yahng Johng](https://tran
 # Research Interests
 My primary research interests are in stochastic modeling and optimization of "modern" stochastic service systems with consideration of strategic human behavior and imperfect systemic information. Broadly, the goal is to provide data-driven, actionable policy recommendations to improve system efficiency and outcomes. 
 
-![Research Agenda](/images/website.png)
+![Research Agenda](./website.png)
 
 I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools (e.g., online learning) can enhance the operational and financial efficiency when full knowledge of the system is unavailable. 
 
