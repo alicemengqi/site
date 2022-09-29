@@ -15,7 +15,9 @@ Welcome! My name is Yueyang Zhong (Pronounced: [Yoo-eh-yahng Johng](https://tran
 # Research Interests
 My primary research interests are in stochastic modeling and optimization of "modern" stochastic service systems with consideration of human **individual human behavior** and **unknown systemic information**. 
 
+<p align="center">
 <img src='/images/website.png' width='450'>
+</p>
 
 Broadly, the goal is to provide data-driven, actionable policy recommendations to improve system efficiency and outcomes. 
 My research employs tools from applied probability, game theory, optimization, statistics, and learning theory (in particular, online learning and reinforcement learning). 
