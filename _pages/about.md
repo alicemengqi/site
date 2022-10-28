@@ -24,15 +24,12 @@ I am currently working on (i) how strategic behavior of human customers and huma
 My research employs tools from applied probability, game theory, optimization, statistics, and learning theory (in particular, online learning and reinforcement learning). 
 
 
-# Upcoming Talks
-I will be presenting at the upcoming 2022 INFORMS Annual Meeting in the following sessions: 
-- [Session SB31 - Emerging Topics on Service Platform (Session chairs: Vahideh Manshadi, Daniela Saban)](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064) 
-  - Sunday, October 16, 11:00 AM – 12:15 PM; CC – Room 142 
-  - Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers (1st talk)
-
-- [Session MD51 - Service Science Best Student Paper (Session chair: Meng Li)](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1526) 
+# Recent Talks
+I presented at the 2022 INFORMS Annual Meeting in the following sessions: 
+- [Session SB31 - Emerging Topics on Service Platform](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064) 
+- [Session MD51 - Service Science Best Student Paper](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1526) 
   - Monday, October 17, 2:00 PM – 3:15 PM; M – Santa Fe 
-  - Behavior-Aware Queueing: The Finite-Buffer Setting with Many Strategic Servers (5th talk)
+  - Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers [[Talk Slides]()]
 
 
 
