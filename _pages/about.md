@@ -29,7 +29,7 @@ I presented at the 2022 INFORMS Annual Meeting in the following sessions:
 - [Session SB31 - Emerging Topics on Service Platform](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064) and [Session MD51 - Service Science Best Student Paper](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1526) 
   - Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers (18 min) [[Talk Slides](https://yzhong0.github.io/yueyangzhong/files/StrategicInteraction_slides.pdf)]
 - [Session MC73 - APS Special Session: Showcasing Senior PhD Students](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1078)  
-  - My research overview (3 min) [[Talk Slides](https://yzhong0.github.io/yueyangzhong/files/Flash-talk_slides.pdf)]
+  - My research agenda (3 min) [[Talk Slides](https://yzhong0.github.io/yueyangzhong/files/Flash-talk_slides.pdf)]
 
 
 
