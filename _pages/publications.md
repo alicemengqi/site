@@ -27,8 +27,8 @@ Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
 Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
 1. Data-Driven Nonparametric Product Design, **work in progress**,     
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
-1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **under revision**,
-Joint with Mo Liu, Zuo-Jun (Max) Shen
+<!-- 1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **under revision**,
+Joint with Mo Liu, Zuo-Jun (Max) Shen -->
 1. Distributionally Robust MDP with an Online Updated Ambiguity Set, **work in progress**     
 Joint with Shuo Sun, Zuo-Jun (Max) Shen
 <!-- 1. Learning Newsvendor Problem in a Growing Environment, Working paper,           
