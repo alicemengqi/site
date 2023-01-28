@@ -13,22 +13,9 @@ Welcome! My name is Yueyang Zhong (Pronounced: [Yoo-eh-yahng Johng](https://tran
 # Research Interests
 My primary research interests are in stochastic modeling and optimization of "modern" stochastic service systems with consideration of individual human behavior and imperfect systemic information. Broadly, the goal is to provide actionable policy recommendations to improve system efficiency and outcomes. 
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/yzhong0/yueyangzhong/main/images/venn.PNG' width="340">
-</p>
-
 I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools can enhance the operational and financial efficiency when full knowledge of the system characteristics is unavailable. 
 
 My research employs tools from applied probability, game theory, optimization, statistics, and learning theory (in particular, online learning and reinforcement learning). 
-
-
-# Recent Talks
-I presented at the 2022 INFORMS Annual Meeting in the following sessions: 
-- [Session SB31 - Emerging Topics on Service Platform](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1064) and [Session MD51 - Service Science Best Student Paper](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1526) 
-  - Behavior-Aware Queueing: When Strategic Customers Meet Strategic Servers (18 min) [[Talk Slides](https://yzhong0.github.io/yueyangzhong/files/StrategicInteraction_slides.pdf)]
-- [Session MC73 - APS Special Session: Showcasing Senior PhD Students](https://www.abstractsonline.com/pp8/?__hstc=194041586.26d432e6e1461cbb4404a540a9b0c1e1.1657821478539.1661982061825.1661987443359.66&__hssc=194041586.2.1661987443359&__hsfp=4151869950&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1078)  
-  - My research agenda (3 min) [[Talk Slides](https://yzhong0.github.io/yueyangzhong/files/Flash-talk_slides.pdf)]
-
 
 
 
