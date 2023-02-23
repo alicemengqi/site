@@ -9,7 +9,7 @@ author_profile: true
 # Journal publications
 1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903)).     
 Joint with Ying Cao, Zuo-Jun (Max) Shen
-1. A Practical End-to-End Inventory Management Model with Deep Learning, **forthcoming in Management Science** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737780))    
+1. A Practical End-to-End Inventory Management Model with Deep Learning, **Management Science**, 2022 ([link](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4564))    
 Joint with Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
 1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))     
 Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
@@ -21,9 +21,9 @@ Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 # Under review and working papers
 1. Integrated Conditional Estimation-Optimization, **under review** ([link](https://arxiv.org/abs/2110.12351))
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
-1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **major revision in Operations Research** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
+1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
-1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **major revision in Production and Operations Management** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))                        
+1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))                        
 Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
 1. Data-Driven Nonparametric Product Design, **work in progress**,     
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
