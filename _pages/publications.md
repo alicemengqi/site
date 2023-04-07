@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 
 # Working Papers
-1. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. 2022. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). Accepted at *Operations Research*. [[Online Technical Appendix](https://yzhong0.github.io/yueyangzhong/files/finitebuffer_strategicserver_technical_file.pdf)]
+1. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. 2022. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). *Operations Research*. Forthcoming. [[Online Technical Appendix](https://yzhong0.github.io/yueyangzhong/files/finitebuffer_strategicserver_technical_file.pdf)]
    - **Finalist, 2022 INFORMS IBM Best Student Paper Award**
    - Media Mention: [Chicago Booth Review](https://www.chicagobooth.edu/review/secrets-wait-loss)
 2. **Yueyang Zhong**, John R. Birge, Amy R. Ward. 2022. [Learning the Scheduling Policy in Time-Varying Multiclass Many Server Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021). Major Revision at *Operations Research*. 
