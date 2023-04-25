@@ -13,7 +13,7 @@ Hello! I am an assistant professor of [operations, technology and information ma
 ### Research Interest
  My research focuses on data-driven decision making with uncertainty. I am seeking to provide both methodologies and practical solutions combining tools and concepts from optimization, machine learning, and statistics. From an applications perspective, my research focuses on supply chain management and retail operations. As a part of it, I actively collaborate with industrial partners in e-commerce.  
    
-* The interface of Operations Management and Machine Learning
+* Learning for Optimization
 * Supply Chain Management 
 * Retail Operations
 * Data-driven Prescriptive Analysis
