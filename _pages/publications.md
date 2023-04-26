@@ -15,7 +15,7 @@ author_profile: true
 
 # Publications 
 1. **Yueyang Zhong**, Ragavendran Gopalakrishnan, Amy R. Ward. 2023. [Behavior-Aware Queueing: The Finite-Buffer Setting with Strategic Servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633435). *Operations Research*. Forthcoming.
-   - Technical Supplement: [Some Properties of the Erlang-B and Erlang-C Formulae] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430477)
+   - Technical Supplement: [Some Properties of the Erlang-B and Erlang-C Formulae](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430477)
    - **Finalist, 2022 INFORMS IBM Best Student Paper Award**
    - Media Mention: [Chicago Booth Review](https://www.chicagobooth.edu/review/secrets-wait-loss)
 2. **Yueyang Zhong**, Amy R. Ward, Amber L. Puha. 2022. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530). *Operations Research Letters* 50, no. 3: 362-369.
