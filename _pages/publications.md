@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %} 
 
 # Journal publications
-1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903)).     
+1. Distributionally Robust Conditional Quantile Prediction with Fixed Design, **Management Science**, 2021 ([link](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3903)).   
 Joint with Ying Cao, Zuo-Jun (Max) Shen
 1. A Practical End-to-End Inventory Management Model with Deep Learning, **Management Science**, 2022 ([link](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4564))    
 Joint with Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
@@ -16,7 +16,7 @@ Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 
 
 # Selected working papers
-1. Integrated Conditional Estimation-Optimization, **under review** ([link](https://arxiv.org/abs/2110.12351))
+1. Integrated Conditional Estimation-Optimization, **preprint** ([link](https://alicemengqi.github.io/site/files/ICEO_0727-2023.pdf))  
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
