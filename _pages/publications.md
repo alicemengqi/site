@@ -33,6 +33,7 @@ Joint with Shunan Jiang, Zeyu Zheng, Zuo-Jun (Max) Shen -->
 
 # Tutorial
 1. Integrating prediction/estimation and optimization with applications in operations management, Tutorials in Operations Research: Emerging and Impactful Topics in Operations, October 2022
+   
 Joint with Zuo-Jun (Max) Shen
 
 # Conference and workshop
