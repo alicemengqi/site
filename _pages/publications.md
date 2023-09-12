@@ -16,9 +16,9 @@ Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 
 
 # Selected working papers
-1. Integrated Conditional Estimation-Optimization, **preprint** ([link](https://arxiv.org/abs/2110.12351))  
+1. Integrated Conditional Estimation-Optimization, **preprint** ([link](https://arxiv.org/abs/2110.12351))    
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
-1. A Learning and Optimization Framework for Personalized Product Design, **preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554710)) 
+1. A Learning and Optimization Framework for Personalized Product Design, **preprint** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554710))   
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
