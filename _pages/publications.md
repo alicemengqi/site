@@ -31,6 +31,10 @@ Joint with Shuo Sun, Zuo-Jun (Max) Shen
 <!-- 1. Learning Newsvendor Problem in a Growing Environment, Working paper,           
 Joint with Shunan Jiang, Zeyu Zheng, Zuo-Jun (Max) Shen -->
 
+# Tutorial
+1. Integrating prediction/estimation and optimization with applications in operations management, Tutorials in Operations Research: Emerging and Impactful Topics in Operations, October 2022
+Joint with Zuo-Jun (Max) Shen
+
 # Conference and workshop
 1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation, **submitted to IEEE Conference on Robotics and Automation 2022** for publication ([link](https://arxiv.org/abs/2102.09663))       
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
