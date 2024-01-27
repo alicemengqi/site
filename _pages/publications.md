@@ -19,5 +19,5 @@ author_profile: true
    - Technical Supplement: [Some Properties of the Erlang-B and Erlang-C Formulae](https://papers.ssrn.com/abstract_id=4430477)
    - Media Mention: [Chicago Booth Review](https://www.chicagobooth.edu/review/secrets-wait-loss), [Smith Business Insight](https://smith.queensu.ca/insight/content/Customer-Wait-Times-Are-No-Idle-Concern.php)
    - Finalist, 2022 INFORMS IBM Best Student Paper Award
-2. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530), (2022), with Amy R. Ward and Amber L. Puha. *Operations Research Letters* 50(3): pp.362-369.
+2. [Asymptotically Optimal Idling in the GI/GI/N+GI Queue](https://www.sciencedirect.com/science/article/pii/S0167637722000530), (2022), with Amy R. Ward and Amber L. Puha. *Operations Research Letters* 50(3): pp. 362-369.
 3. [Data-Driven Market-Making via Model-Free Learning](https://www.ijcai.org/Proceedings/2020/0615.pdf), (2021), with YeeMan Bergstrom and Amy R. Ward. *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI)*.
