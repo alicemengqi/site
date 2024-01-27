@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: " About Me "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,8 +14,9 @@ Welcome! My name is Yueyang Zhong (Pronounced: [Yoo-eh-yahng Johng](https://tran
 
 # Research Interests
 My primary research interests are in behavior-aware and socially-aware stochastic modeling and optimization of human-centered service systems. Broadly, the goal is to provide actionable policy recommendations to improve system efficiency and outcomes. 
+I am recently working on topics of human-AI interaction, habit formation, and long-term value. 
 
-I am currently working on (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools can enhance the operational and financial efficiency when full knowledge of the system characteristics is unavailable. Much of my [PhD thesis](https://www.proquest.com/docview/2901404282/CDEAA1D0E7FA41DDPQ/12?accountid=14657&sourcetype=Dissertations%20&%20Theses) is devoted to these two areas. 
+My PhD work centers around (i) how strategic behavior of human customers and human servers influence service system design, and (ii) how analytical tools can enhance the operational and financial efficiency when full knowledge of the system characteristics is unavailable. Much of my [PhD dissertation](https://www.proquest.com/docview/2901404282/CDEAA1D0E7FA41DDPQ/12?accountid=14657&sourcetype=Dissertations%20&%20Theses) is devoted to these two areas. 
 
 My research employs tools from applied probability, queueing theory, game theory, optimization, statistics, online learning, and reinforcement learning. 
 
