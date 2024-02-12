@@ -9,7 +9,7 @@ author_profile: true
 
 # Working Papers
 * [Some Asymptotic Properties of the Erlang-C Formula in Many-Server Limiting Regimes](https://arxiv.org/abs/2304.13845), (2023), with Ragavendran Gopalakrishnan. Major Revision at *Operations Research Letters*.
-* [Learning to Schedule in Multiclass Many Server Queues with Abandonment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021), (2023), with John R. Birge and Amy R. Ward. Major Revision at *Operations Research*. 
+* [Learning to Schedule in Multiclass Many Server Queues with Abandonment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4090021), (2023), with John R. Birge and Amy R. Ward. Minor Revision at *Operations Research*. 
 * [Queueing Versus Surge Pricing Mechanism: Efficiency, Equity, and Consumer Welfare](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699134), (2020), with Zhixi Wan and Zuo-Jun Max Shen. Reject and Resubmit at *Management Science*. 
    - Finalist, 2021 INFORMS Conference on Service Science Best Student Paper Award
 
