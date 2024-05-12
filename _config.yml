@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yueyang Zhong"
 title_separator          : "-"
 name                     : &name "Yueyang Zhong"
-description              : &description "Postdoc, Operations Management, Chicago Booth & Yale SOM"
+description              : &description "Postdoctoral Researcher, Operations Management, Chicago Booth & Yale SOM"
 url                      : https://yzhong0.github.io/yueyangzhong # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yzhong0.github.io/yueyangzhong"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yueyang Zhong"
   avatar           : "Headshot2023.jpg"
-  bio              : "Postdoc, Operations Management, Chicago Booth & Yale SOM"
+  bio              : "Postdoctoral Researcher, Operations Management, Chicago Booth & Yale SOM"
   location         : "Chicago"
   employer         :
   pubmed           : 
