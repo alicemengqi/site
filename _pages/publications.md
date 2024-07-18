@@ -11,6 +11,8 @@ author_profile: true
 Joint with Ying Cao, Zuo-Jun (Max) Shen
 1. A Practical End-to-End Inventory Management Model with Deep Learning, **Management Science**, 2022 ([link](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4564))    
 Joint with Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen
+1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Production and Operations Management**, 2024 ([link](https://journals.sagepub.com/doi/abs/10.1177/10591478241242122))                   
+Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
 1. Data-Driven Research in Retail Operations—A review, **Naval Research Logistics**, 2020 ([link](https://onlinelibrary.wiley.com/doi/full/10.1002/nav.21949))     
 Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 
@@ -22,8 +24,6 @@ Joint with Paul Grigas, Zuo-Jun (Max) Shen
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
-1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3648615))                   
-Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
 <!-- 1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **under review**
 Joint with Mo Liu, Zuo-Jun (Max) Shen -->
 1. Distributionally Robust MDP with an Online Updated Ambiguity Set, **work in progress**     
