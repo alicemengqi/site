@@ -22,7 +22,7 @@ Hello! I am an assistant professor of [operations, technology and information ma
 ### Education
 
 * **Ph.D. in Industrial Engineering and Operations Research**   
-University of California, Berkeley (2016-2022) (Advisor: [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu))  
+University of California, Berkeley (2016-2022) 
 * **M.S. in Industrial Engineering and Operations Research**    
 University of California, Berkeley (2016-2017)
 * **B.S. in Mathematics and Physics**   
