@@ -18,6 +18,8 @@ Cornell University, Spring 2024
 Cornell University, Fall 2024
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
 UC Berkeley, Spring 2021
+
+
 ## Co-Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
 UC Berkeley, Spring 2020 
