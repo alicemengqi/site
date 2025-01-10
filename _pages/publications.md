@@ -18,19 +18,24 @@ Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 
 
 # Selected working papers
-1. Integrated Conditional Estimation-Optimization, **Under revision** ([link](https://arxiv.org/abs/2110.12351))    
+1. Integrated Conditional Estimation-Optimization, **Under revision**
+([link](https://arxiv.org/abs/2110.12351))    
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
-1. A Learning and Optimization Framework for Personalized Product Design, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554710))   
+1. A Learning and Optimization Framework for Personalized Product Design, **Under revision**
+([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554710))   
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
-1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
+1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision**
+([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
-1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Working paper** ([link] (https://arxiv.org/abs/2403.04753))
+1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Working paper**
+([link] (https://arxiv.org/abs/2403.04753))
 Joint with Mingxi Zhu
-1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Working paper** ([link] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
+1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Working paper**
+([link] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
 Joint with Haoran Guo, Wei Qi
-1. AI Co-Pilots for Data-Driven Perishable Inventory Management. **Working paper**
+1. AI Co-Pilots for Data-Driven Perishable Inventory Management. **Working paper**               
 Joint with Yu Nu, Elena Belavina, Karan Girotra
-1. Data-Driven Contextual Value-Based Pricing. **Working paper**
+1. Data-Driven Contextual Value-Based Pricing. **Working paper**            
 Joint with Li Chen, Xiangyin Chen
 
 
