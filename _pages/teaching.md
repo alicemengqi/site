@@ -35,10 +35,17 @@ UC Berkeley, Spring 2018
 * R&D Intern at JD.com, Silicon Valley Research Center, Summer 2018
 
 # Academic Services
-* Organizer of the student summer seminar series at IEOR Department, UC Berkeley, 2019.
-* Session chair, INFORMS Annual Meeting, 2020, 2021
+* Organizer
+    * Cornell OTIM seminar (Since Spring 2024)
+    * Cornell OTIM annual research symposium (2024 and 2025)
+    * UC Berkeley IEOR Student Summer Seminar Series(Summer 2019)
+      
 * Reviewer for     
      * Management Science
+     * Operations Research
      * Manufacturing and Service Operations Management
      * Production and Operations Management
+     * Mathematical Programming
+     * IISE Transactions
+     * Naval Research Logistics
    
