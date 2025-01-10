@@ -8,10 +8,16 @@ author_profile: true
 
 # Teaching Experiences
 ## Instructor
+* HADM 2011, Hospitality Quantitative Analysis,
+Cornell University, Spring 2023, Spring 2024, Fall 2024
+* HADM 4750/6750, Machine Learning for Business and Hospitality Applications,
+Cornell University, Spring 2024
+* HADM 9310, Service and Healthcare Operations,
+Cornell University, Spring 2024
+* NRE 5460, Data Analytics in OM,
+Cornell University, Fall 2024
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
-UC Berkeley, Spring 2021,
-
-Teaching evaluation: 4.75/5.00 (IEOR 253, department average 4.22), 5.00/5.00 (CEE 258)
+UC Berkeley, Spring 2021
 ## Co-Instructor
 * IEOR 253/CEE 258, Supply Chain and Logistics Management,     
 UC Berkeley, Spring 2020 
