@@ -31,7 +31,7 @@ Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
 ([link] (https://arxiv.org/abs/2403.04753))
 Joint with Mingxi Zhu
 1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Working paper**
-([link] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
+([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
 Joint with Haoran Guo, Wei Qi
 1. AI Co-Pilots for Data-Driven Perishable Inventory Management. **Working paper**               
 Joint with Yu Nu, Elena Belavina, Karan Girotra
