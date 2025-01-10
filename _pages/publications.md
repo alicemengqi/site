@@ -28,7 +28,7 @@ Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
 1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Working paper**
-([link] (https://arxiv.org/abs/2403.04753))
+([link](https://arxiv.org/abs/2403.04753))
 Joint with Mingxi Zhu
 1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Working paper**
 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
