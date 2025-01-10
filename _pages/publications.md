@@ -24,20 +24,25 @@ Joint with Paul Grigas, Zuo-Jun (Max) Shen
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision** ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))     
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
-<!-- 1. End-to-End Deep Learning for Inventory Management with Fixed Ordering Cost and its Theoretical Analysis, **under review**
-Joint with Mo Liu, Zuo-Jun (Max) Shen -->
-1. Distributionally Robust MDP with an Online Updated Ambiguity Set, **work in progress**     
-Joint with Shuo Sun, Zuo-Jun (Max) Shen
-<!-- 1. Learning Newsvendor Problem in a Growing Environment, Working paper,           
-Joint with Shunan Jiang, Zeyu Zheng, Zuo-Jun (Max) Shen -->
+1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Working paper** ([link] (https://arxiv.org/abs/2403.04753))
+Joint with Mingxi Zhu
+1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Working paper** ([link] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))
+Joint with Haoran Guo, Wei Qi
+1. AI Co-Pilots for Data-Driven Perishable Inventory Management. **Working paper**
+Joint with Yu Nu, Elena Belavina, Karan Girotra
+1. Data-Driven Contextual Value-Based Pricing. **Working paper**
+Joint with Li Chen, Xiangyin Chen
+
 
 # Tutorial
 1. Integrating prediction/estimation and optimization with applications in operations management, **Tutorials in Operations Research**, 2022 ([link](https://pubsonline.informs.org/doi/abs/10.1287/educ.2022.0249)）     
 Joint with Zuo-Jun (Max) Shen
 
 # Conference and workshop
-1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation, **submitted to IEEE Conference on Robotics and Automation 2022** for publication ([link](https://arxiv.org/abs/2102.09663))       
+1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation, **submitted to IEEE Conference on Robotics and Automation 2022** for publication ([link](https://arxiv.org/abs/2102.09663))    
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
+1. Online MDP with Prototypes Information: A Robust Adaptive Approach, Forthcoming **The 39th Annual AAAI Conference on Artificial Intelligence**, ([link](https://arxiv.org/abs/2412.14075))
+Joint with Shuo Sun, Zuo-Jun (Max) Shen
 
 
 
