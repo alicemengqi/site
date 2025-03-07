@@ -44,7 +44,7 @@ Joint with Li Chen, Xiangyin Chen
 Joint with Zuo-Jun (Max) Shen
 
 # Conference and workshop
-1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation, **submitted to IEEE Conference on Robotics and Automation 2022** for publication ([link](https://arxiv.org/abs/2102.09663))    
+1. Smart Feasibility Pump: Reinforcement Learning for (Mixed) Integer Programming, **ICML 2021 RL for Real Life Workshop**, spotlight presentation ([link](https://arxiv.org/abs/2102.09663))    
 Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Online MDP with Prototypes Information: A Robust Adaptive Approach, Forthcoming **The 39th Annual AAAI Conference on Artificial Intelligence**, ([link](https://arxiv.org/abs/2412.14075))
 Joint with Shuo Sun, Zuo-Jun (Max) Shen
