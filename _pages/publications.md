@@ -8,7 +8,7 @@ author_profile: true
 
 # Journal publications
 1. Inventory Management with Transformer: Automated Decision Making for Order Timing and Quantity, **Service Science**, 2026
-([link](https://doi.org/10.1287/serv.2024.0236))
+([link](https://doi.org/10.1287/serv.2024.0236))               
 Joint with Mo Liu, Yumo Bai, Zuo-Jun (Max) Shen
 1. Integrated Conditional Estimation-Optimization, **Operations Research**(Forthcoming), 2025
 ([link](https://doi.org/10.1287/opre.2023.0427))    
