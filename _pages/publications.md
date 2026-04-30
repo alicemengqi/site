@@ -7,8 +7,11 @@ author_profile: true
 {% include base_path %} 
 
 # Journal publications
+1. Inventory Management with Transformer: Automated Decision Making for Order Timing and Quantity, **Service Science**, 2026
+([link](https://doi.org/10.1287/serv.2024.0236))
+Joint with Mo Liu, Yumo Bai, Zuo-Jun (Max) Shen
 1. Integrated Conditional Estimation-Optimization, **Operations Research**(Forthcoming), 2025
-([link](https://arxiv.org/abs/2110.12351))    
+([link](https://doi.org/10.1287/opre.2023.0427))    
 Joint with Paul Grigas, Zuo-Jun (Max) Shen
 1. Learning Newsvendor Problem with Intertemporal Dependence and Moderate Non-Stationarities, **Production and Operations Management**, 2024 ([link](https://journals.sagepub.com/doi/abs/10.1177/10591478241242122))                   
 Joint with Zeyu Zheng, Zuo-Jun (Max) Shen   
