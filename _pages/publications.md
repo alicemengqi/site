@@ -33,13 +33,15 @@ Joint with Haoran Guo, Wei Qi
 1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision**
 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))      
 Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
-1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Working paper**
+1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Under revision**
 ([link](https://arxiv.org/abs/2403.04753))           
 Joint with Mingxi Zhu
 1. AI Co-Pilots for Data-Driven Perishable Inventory Management. **Working paper**               
 Joint with Yu Nu, Elena Belavina, Karan Girotra
 1. Data-Driven Contextual Value-Based Pricing. **Working paper**            
 Joint with Li Chen, Xiangyin Chen
+1. Designing UNHCR’s Relief Inventory Network: Decentralization or Clustering? **Working paper**
+Joint with Xiangyin Chen, Mahyar Eftekhar
 
 
 # Tutorial
