@@ -40,7 +40,7 @@ Joint with Mingxi Zhu
 Joint with Yu Nu, Elena Belavina, Karan Girotra
 1. Data-Driven Contextual Value-Based Pricing. **Working paper**            
 Joint with Li Chen, Xiangyin Chen
-1. Designing UNHCR’s Relief Inventory Network: Decentralization or Clustering? **Working paper**
+1. Designing UNHCR’s Relief Inventory Network: Decentralization or Clustering? **Working paper**               
 Joint with Xiangyin Chen, Mahyar Eftekhar
 
 
