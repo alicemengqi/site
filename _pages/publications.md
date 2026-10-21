@@ -23,6 +23,7 @@ Joint with Ying Cao, Zuo-Jun (Max) Shen
 Joint with Ho-Yin Mak, Zuo-Jun (Max) Shen
 
 
+
 # Selected working papers
 1. A Learning and Optimization Framework for Personalized Product Design, **Under revision**
 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554710))   
@@ -30,9 +31,6 @@ Joint with Mengxin Wang, Zuo-Jun (Max) Shen
 1. Overworking or Outsourcing: Integrated Prediction- Optimization for Order Assignment in Last-Mile Delivery. **Under revision**
 ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054050))       
 Joint with Haoran Guo, Wei Qi
-1. Urban Courier: Operational Innovation and Data-driven Coverage-and-Pricing, **Under revision**
-([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678317))      
-Joint with Mengxin Wang, Junyu Cao, Zuo-Jun (Max) Shen
 1. Mechanism for Collaborative Federated Learning: A Pitfall of Shapley Values. **Under revision**
 ([link](https://arxiv.org/abs/2403.04753))           
 Joint with Mingxi Zhu
@@ -42,6 +40,8 @@ Joint with Yu Nu, Elena Belavina, Karan Girotra
 Joint with Li Chen, Xiangyin Chen
 1. Designing UNHCR’s Relief Inventory Network: Decentralization or Clustering? **Working paper**               
 Joint with Xiangyin Chen, Mahyar Eftekhar
+1. Optimal Choice-Set Size in Discrete Choice Experiments **Working paper**               
+Joint with Zhiyu Liu, Mengxin Wang
 
 
 # Tutorial
